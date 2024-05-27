@@ -24,7 +24,7 @@
 |         Βήμα 5,6          |          Βήμα 7           |
 | ![cup3](images/cup3.png) | ![cup4](images/cup4.png) |
 |         Βήμα 8           |           Βήμα 9         |
-| ![cup5](images/cup5.png) | ![slicer](images/cupslicer.png) |
+| ![cup5](images/cup5.png) | ![slicer](images/cupslicer1.png) |
 
 To .stl αρχείο του 3D μοντέλου βρίσκεται στον φάκελο /stls μπορεί να το επεξεργαστεί κανείς σε λογισμικό επεξεργασίας 3D μοντέλων (π.χ. tinkercad) για περεταίρω προσαρμογές.
 
